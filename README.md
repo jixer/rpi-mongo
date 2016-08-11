@@ -1,2 +1,2 @@
 # rpi-mongo
-RPi-compatible Docker image with MongoDB
+Raspberry Pi compatible Docker image with [MongoDB](https://www.mongodb.com/).
